@@ -1,0 +1,8 @@
+all diagram eg : 
+http://www.javaengineeringprograms.com/uml-diagrams-for-library-management-system/
+
+presentation with documentation:
+https://www.slideshare.net/cutestpanchi/library-management-system-33260945 
+
+helful diagram:
+http://tshirtmaker.me/er-diagram-for-library-management-system-in-software-engineering.html/online-library-management-er-diagram-for-system-in-software-engineering
